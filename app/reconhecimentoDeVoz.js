@@ -1,4 +1,4 @@
-//alert("Antes, Verifique se você está usando o Google Chrome, outros navegadores podem não ter suporte a este recurso.");
+alert("Antes, Verifique se você está usando o Google Chrome, outros navegadores podem não ter suporte a este recurso.");
 const elementoChute = document.getElementById("chute");
 
 window.SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
